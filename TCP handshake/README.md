@@ -207,5 +207,4 @@ We declare that all the work presented here is our own, and we have not indulged
 
 ## 14. Acknowledgment
 
-We would like to thank **Prof. Adithya Vadapalli** for his guidance on TCP internals and providing the server code. Special thanks to **TAs Hrushikesh and Lokesh** for prompt support on Piazza.
-
+We would like to thank **Prof. Adithya Vadapalli** for his guidance on TCP internals and providing the server code.
