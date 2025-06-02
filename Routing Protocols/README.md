@@ -188,4 +188,4 @@ We declare that all the work presented here is our own, and we have not indulged
 
 ## 12. Acknowledgment
 
-We thank **Prof. Adithya Vadapalli** for his guidance and the problem statements, as well as the TAs for providing timely clarifications.
+We thank **Prof. Adithya Vadapalli** for his guidance and the problem statements.
