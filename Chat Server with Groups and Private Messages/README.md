@@ -261,5 +261,5 @@ We declare that all the work presented here is our own and we have not indulged 
 
 ## 12. Acknowledgment
 
-We are grateful to Prof. Adithya Vadapalli; without his guidance and help, we couldn't have completed this assignment.
+We are grateful to Prof. Adithya Vadapalli; without his guidance and help, we couldn't have completed this assignment
 
