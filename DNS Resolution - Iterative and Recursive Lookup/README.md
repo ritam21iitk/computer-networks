@@ -185,4 +185,4 @@ We declare that all the work presented here is our own, and we have not indulged
 
 ## 12. Acknowledgment
 
-We would like to thank **Prof. Adithya Vadapalli** for providing the guidance and skeleton code for this DNS assignment
+We would like to thank **Prof. Adithya Vadapalli** for providing the guidance and skeleton code for this DNS assignment.
